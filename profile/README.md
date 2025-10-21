@@ -1,7 +1,7 @@
 # Media Encoder – Fast Video Conversion and Rendering Engine
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdR9nY8WDwXhW298saGjZ7E08eEYeYe62AQ&s" width="250"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Adobe_Media_Encoder_Icon.svg/1200px-Adobe_Media_Encoder_Icon.svg.png" width="250"/>
 </div>  
 <br>
 <div align="center">
